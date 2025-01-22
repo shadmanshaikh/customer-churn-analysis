@@ -18,6 +18,10 @@ This project involves a data-driven analysis of customer churn using Power BI, a
 6. [Recommendations](#recommendations)
 7. [Conclusion](#conclusion)
 
+![dash 1](https://github.com/shadmanshaikh/customer-churn-analysis/blob/main/1.png)
+
+![dash 2](https://github.com/shadmanshaikh/customer-churn-analysis/blob/main/2.png)
+
 ## Problem Statement
 
 Customer churn, defined as the percentage of customers who discontinue their service, is a critical business metric in subscription-based industries. High churn rates can negatively impact revenue and growth, making it crucial for companies to understand the underlying causes of customer attrition and develop effective retention strategies. The goal of this analysis is to examine customer data, identify key factors contributing to churn, and recommend actionable insights to reduce customer attrition.
